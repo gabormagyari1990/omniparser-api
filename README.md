@@ -14,7 +14,7 @@ A FastAPI-based REST API for the OmniParser package that parses screenshots and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/omniparser-api.git
+git clone https://github.com/gabormagyari1990/omniparser-api.git
 cd omniparser-api
 ```
 
